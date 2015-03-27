@@ -10,14 +10,14 @@ A fun game
 
 ## Maria
 
-1.
-2.
+1. Yellow
+2. 
 3.
 4.
 
 ## Leia
 
-1.
+1. Turquoise
 2.
 3.
 4.
