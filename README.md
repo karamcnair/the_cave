@@ -5,7 +5,7 @@ A fun game
 
 1.
 2.
-3.
+3. Pink
 4.
 
 ## Maria
@@ -20,4 +20,4 @@ A fun game
 1.
 2.
 3.
-4.
+4. Teal
